@@ -1,7 +1,5 @@
 ![Top Banner](img/topBanner.png)
-<br/>
-<br/>
-<br/>
+## Greeting to Visitors!
 ![Greeting](img/greeting.png)
 <br/>
 <br/>
