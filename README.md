@@ -1,5 +1,5 @@
 ![Top Banner](img/topBanner.png)
-# Greeting to Visitors!
+## Greeting to Visitors!
 <br/>
 
 ![Greeting](img/greeting.png)
@@ -7,7 +7,7 @@
 <br/>
 <br/>
 
-# Frontend works
+## Frontend works
 [![Frontend Banner](/img/frontendWorks.png)](https://dongwontuna.net/works/frontend/)
 <br/>
 <br/>
@@ -15,7 +15,7 @@
 
 #### to be implemented
 
-# Backend works
+## Backend works
 [![Backend Banner](/img/backendWorks.png)](https://dongwontuna.net/works/backend/)
 #### to be implemented
 
@@ -23,7 +23,7 @@
 <br/>
 <br/>
 
-# Fullstack works
+## Fullstack works
 [![Fullstack Banner](/img/fullstackWorks.png)](https://dongwontuna.net/works/fullstack/)
 #### to be implemented
 <br/>
