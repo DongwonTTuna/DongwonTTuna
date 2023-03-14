@@ -3,9 +3,7 @@
 <br/>
 <br/>
 <br/>
-<a href="https://dongwontuna.net/works/frontend/">
-<img src="/img/frontendWorks.png" alt="frontendWorksBanner"/>
-</a>
+[<img src="/img/frontendWorks.png" alt="frontendWorksBanner"/>](https://dongwontuna.net/works/frontend/)
 <br/>
 <br/>
 <br/>
@@ -15,9 +13,7 @@
 <br/>
 <br/>
 <br/>
-<a href="https://dongwontuna.net/works/backend/">
-<img src="/img/backendWorks.png" alt="backWorksBanner"/>
-</a>
+[<img src="/img/backendWorks.png" alt="backWorksBanner"/>](https://dongwontuna.net/works/backend/)
 <br/>
 <br/>
 <br/>
@@ -27,9 +23,7 @@
 <br/>
 <br/>
 <br/>
-<a href="https://dongwontuna.net/works/fullstack/">
-<img src="/img/fullstackWorks.png" alt="fullStackWorksBanner"/>
-</a>
+[<img src="/img/fullstackWorks.png" alt="fullStackWorksBanner"/>](https://dongwontuna.net/works/fullstack/)
 <br/>
 <br/>
 <br/>
