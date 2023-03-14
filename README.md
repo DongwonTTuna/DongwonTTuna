@@ -24,7 +24,7 @@
 <br/>
 <br/>
 <br/>
-![Fullstack Banner](img/fullstackWorks.png.png)
+![Fullstack Banner](img/fullstackWorks.png)
 <br/>
 <br/>
 <br/>
