@@ -1,8 +1,5 @@
 ![Top Banner](img/topBanner.png)
 
-
-### 初めまして
-
 ![Greeting Banner](img/greeting.png)
 <br/>
 <br/>
