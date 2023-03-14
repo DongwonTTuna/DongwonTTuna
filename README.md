@@ -3,7 +3,6 @@
 <br/>
 <br/>
 <br/>
-[![Alt text](https://someimage.svg)](https://destination)
 ![![frontendWorksBanner](img/frontendWorks.png)](https://dongwontuna.net/works/frontend/)
 <br/>
 <br/>
