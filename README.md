@@ -3,7 +3,8 @@
 <br/>
 <br/>
 <br/>
-[![frontendWorksBanner](img/frontendWorks.png)](https://dongwontuna.net/works/frontend/)
+[![Alt text](https://someimage.svg)](https://destination)
+![![frontendWorksBanner](img/frontendWorks.png)](https://dongwontuna.net/works/frontend/)
 <br/>
 <br/>
 <br/>
