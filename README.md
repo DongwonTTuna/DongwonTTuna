@@ -16,7 +16,7 @@
 <br/>
 <br/>
 <br/>
-<img src="img/frontendWorks.png" >
+<img src="img/frontendWorks.png"  width="100%" height="auto" style="max-height: 400px">
 <br/>
 <br/>
 <br/>
