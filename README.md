@@ -1,5 +1,5 @@
 ![Top Banner](img/topBanner.png)
-![Greeting English Banner](img/greetEnglish.png)
+<img src="/img/greetEnglish.png" alt="Greeting English Banner">
 ![Greeting Japanese Banner](img/greetJapanese.png)
 [![Frontend Banner](/img/frontendWorks.png)](https://dongwontuna.net/works/frontend/)
 [![Backend Banner](/img/backendWorks.png)](https://dongwontuna.net/works/backend/)
