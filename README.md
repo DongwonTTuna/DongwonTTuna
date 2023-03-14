@@ -1,10 +1,6 @@
 ![Top Banner](img/topBanner.png)
-<img src="/img/greeting.png.png" alt="TopBanner"/>
-<img src="/img/greeting.png.png" alt="GreetingBanner"/>
-<br/>
-<br/>
-<br/>
-![frontend Banner](/img/frontendWorks.png)
+![Greeting Banner](img/greeting.png)
+[![frontend Banner](/img/frontendWorks.png)](https://dongwontuna.net/works/frontend/)
 <a href="https://dongwontuna.net/works/frontend/">
 <img src="/img/frontendWorks.png" alt="frontendWorksBanner"/>
 </a>
