@@ -16,7 +16,7 @@
 <br/>
 <br/>
 <br/>
-<img src="img/frontendWorks.png"  width="auto" height="200">
+<img src="img/frontendWorks.png" >
 <br/>
 <br/>
 <br/>
