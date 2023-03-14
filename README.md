@@ -16,7 +16,7 @@
 <br/>
 <br/>
 <br/>
-![Top Banner](img/frontendWorks.png)
+<img src="img/frontendWorks.png"  width="auto" height="200">
 <br/>
 <br/>
 <br/>
