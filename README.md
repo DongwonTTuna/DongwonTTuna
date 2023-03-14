@@ -1,19 +1,13 @@
-<img src="/img/topBanner.png" alt="TopBanner"/>
-<img src="/img/greeting.png" alt="GreetingBanner"/>
+![Top Banner](img/topBanner.png)
+<img src="/img/greeting.png.png" alt="TopBanner"/>
+<img src="/img/greeting.png.png" alt="GreetingBanner"/>
 <br/>
 <br/>
 <br/>
-![frontendWorksBanner](img/frontendWorks.png)
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-[!<img src="/img/backendWorks.png" alt="backWorksBanner"/>](https://dongwontuna.net/works/backend/)
+![frontend Banner](/img/frontendWorks.png)
+<a href="https://dongwontuna.net/works/frontend/">
+<img src="/img/frontendWorks.png" alt="frontendWorksBanner"/>
+</a>
 <br/>
 <br/>
 <br/>
@@ -23,7 +17,21 @@
 <br/>
 <br/>
 <br/>
-[!<img src="/img/fullstackWorks.png" alt="fullStackWorksBanner"/>](https://dongwontuna.net/works/fullstack/)
+<a href="https://dongwontuna.net/works/backend/">
+<img src="/img/backendWorks.png" alt="backWorksBanner"/>
+</a>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<a href="https://dongwontuna.net/works/fullstack/">
+<img src="/img/fullstackWorks.png" alt="fullStackWorksBanner"/>
+</a>
 <br/>
 <br/>
 <br/>
