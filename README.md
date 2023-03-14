@@ -3,7 +3,7 @@
 <br/>
 <br/>
 <br/>
-[!<img src="/img/frontendWorks.png" alt="frontendWorksBanner"/>](https://dongwontuna.net/works/frontend/)
+[![frontendWorksBanner](img/frontendWorks.png)](https://dongwontuna.net/works/frontend/)
 <br/>
 <br/>
 <br/>
