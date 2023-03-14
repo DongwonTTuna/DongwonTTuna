@@ -1,4 +1,4 @@
-![Top Banner](https://github.com/DongwonTTuna/DongwonTTuna/blob/master/img/topBanner.png?raw=true)
+![Top Banner](img/topBanner.png)
 
 
 ### 初めまして
