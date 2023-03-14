@@ -16,7 +16,7 @@
 <br/>
 <br/>
 <br/>
-<img src="img/frontendWorks.png"  width="100%" height="auto" style="max-height: 400px">
+![Frontend Banner](img/frontendWorks.png)
 <br/>
 <br/>
 <br/>
@@ -26,7 +26,7 @@
 <br/>
 <br/>
 <br/>
-![Top Banner](img/backendWorks.png)
+![Backend Banner](img/backendWorks.png)
 <br/>
 <br/>
 <br/>
