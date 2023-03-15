@@ -14,9 +14,9 @@
 
 [![Frontend Banner](/img/frontendWorks.png)](https://dongwontuna.net/works/frontend/)
 
-| | | |
-|:-------------------------:|:-------------------------:|:-------------------------:|
-|[![RandomSeat Banner](/img/RandomSeat.png)](https://randomseat.dongwontuna.net/) |[![TviewChart](/img/TviewChart.png)](https://tviewchart.dongwontuna.net)||
+| | | 
+|:-------------------------:|:-------------------------:|
+|[![RandomSeat Banner](/img/RandomSeat.png)](https://randomseat.dongwontuna.net/) |[![TviewChart](/img/TviewChart.png)](https://tviewchart.dongwontuna.net)|
 
 <br/>
 <br/>
