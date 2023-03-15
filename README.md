@@ -5,7 +5,7 @@
 ## Greetings to Visitors!
 
 [![GreetingEng](img/greetingEng.png)](<(https://dongwontuna.net/)>)
-[![GreetingJapan](img/greetingJapanese.png)](<(https://dongwontuna.net/)>)
+[![GreetingJapan](img/greetingJapan.png)](<(https://dongwontuna.net/)>)
 <br/>
 <br/>
 <br/>
