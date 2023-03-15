@@ -4,14 +4,6 @@
 
 ## Greetings to Visitors!
 
-Thank you for visiting!<br/>
-All the repositories listed here have been developed as a hobby or as personal projects.<br/>
-For more details, please visit dongwonttuna.net/works.
-
-ご訪問いただき、誠にありがとうございます！<br/>
-載せてある全てのレポジトリーは趣味で、もしくは個人のプロジェクトとして開発してきたものになります。<br/>
-詳細は dongwonttuna.net/works をご参考ください！
-
 [![Greeting](img/greeting.png)](<(https://dongwontuna.net/)>)
 <br/>
 <br/>
