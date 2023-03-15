@@ -10,7 +10,7 @@
 <br/>
 <br/>
 
-## Frontend works　  ー　  フロントエンドの作品
+## Frontend works　　　ー　　フロントエンドの作品
 
 [![Frontend Banner](/img/frontendWorks.png)](https://dongwontuna.net/works/frontend/)
 
