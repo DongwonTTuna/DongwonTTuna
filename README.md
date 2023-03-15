@@ -14,7 +14,7 @@
 
 [![Frontend Banner](/img/frontendWorks.png)](https://dongwontuna.net/works/frontend/)
 
-| | | 
+| 2022.07 | 2022.10 | 
 |:-------------------------:|:-------------------------:|
 |[![RandomSeat Banner](/img/RandomSeat.png)](https://randomseat.dongwontuna.net/) |[![TviewChart](/img/TviewChart.png)](https://tviewchart.dongwontuna.net)|
 
