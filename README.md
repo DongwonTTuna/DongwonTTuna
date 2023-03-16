@@ -32,7 +32,7 @@
 | 2023.03~ | 2022.09~ |
 |:-------------------------:|:-------------------------:|
 |[![Notion csv Automator Banner](/img/Holiday2Notion.png)](https://github.com/DongwonTTuna/Holiday2Notion) Frontend in Developnment|[![CoinTradingSystem Banner](/img/coinTradingSystem.png)](https://github.com/DongwonTTuna/CoinTradingSystem)|
-|[![Holiday2Notion Github](/img/Holiday2NotionGithub.png)](https://github.com/DongwonTTuna/Holiday2Notion)|[![CoinTradingSystem Github](/img/coinTradingSystemGithub.png)](https://github.com/DongwonTTuna/Holiday2Notion)|
+|[![Holiday2Notion Github](/img/Holiday2NotionGithub.png)](https://github.com/DongwonTTuna/Holiday2Notion)|[![CoinTradingSystem Github](/img/coinTradingSystemGithub.png)](https://github.com/DongwonTTuna/CoinTradingSystem)|
 
 <br/>
 <br/>
