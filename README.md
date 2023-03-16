@@ -45,7 +45,7 @@
 <br/>
 | 2023.02~ | 2023.03~ | 
 |:-------------------------:|:-------------------------:|
-|[![DongwonTuna Banner](/img/mainSite.png)](https://dongwontuna.net/) In Development |[![BiodenKR Banner](/img/biodenKRSite.png)](https://biodenkr.com) In Translate to several languages|
+|[![DongwonTuna Banner](/img/mainSite.png)](https://dongwontuna.net/) In Development |[![BiodenKR Banner](/img/biodenKRSite.png)](https://biodenkr.com) In Translation to several languages|
 |[![DongwonTuna Github](/img/mainSiteGithub.png)](https://github.com/DongwonTTuna/mainSite)|[![BiodenKR Github](/img/biodenKRGithub.png)](https://github.com/DongwonTTuna/biodenKR)|
 
 <br/>
