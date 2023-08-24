@@ -1,9 +1,5 @@
 # @DongwonTTuna
 ## Frontend works　ー　フロントエンドの作品
-
-[![Frontend Banner](/img/frontendWorks.png)](https://dongwontuna.net/works/frontend/)
-<br/>
-<br/>
 | 2022.07 | 2022.10 | 
 |:-------------------------:|:-------------------------:|
 |[![RandomSeat Banner](/img/randomSeat.png)](https://randomseat.dongwontuna.net/) |[![TviewChart](/img/tviewChart.png)](https://tviewchart.dongwontuna.net)|
