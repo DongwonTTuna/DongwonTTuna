@@ -1,7 +1,4 @@
 # @DongwonTTuna
-
-[![Top Banner](img/topBanner.png)](https://dongwontuna.net/)
-
 ## Frontend works　ー　フロントエンドの作品
 
 [![Frontend Banner](/img/frontendWorks.png)](https://dongwontuna.net/works/frontend/)
