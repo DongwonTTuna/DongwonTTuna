@@ -27,7 +27,7 @@
 [![Fullstack Banner](/img/fullstackWorks.png)](https://dongwontuna.net/works/fullstack/)
 <br/>
 <br/>
-| 2023.02~ | 2024.07~ | 
+| 2023.02~ | 2024.07 | 
 |:-------------------------:|:-------------------------:|
 |[![DongwonTuna Banner](/img/mainSite.png)](https://dongwontuna.net/) In Development |[![BiodenKR Banner](/img/biodenKRSite.png)](https://biodenkr.com)|
 |[![DongwonTuna Github](/img/mainSiteGithub.png)](https://github.com/DongwonTTuna/mainSite)|[![BiodenKR Github](/img/biodenKRGithub.png)](https://github.com/DongwonTTuna/biodenKR_svelte)|
