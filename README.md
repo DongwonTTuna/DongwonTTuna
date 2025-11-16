@@ -17,3 +17,7 @@ Hi I'm Dongwon Lee, a Tokyo-based full-stack engineer at Nextbeat focused on mod
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=DongwonTTuna&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Dongwon's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DongwonTTuna&layout=compact&theme=buefy&hide_border=true" /> |
 | ------------- | ------------- |
+
+<p align="center"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=dongwonttuna&color=blueviolet" /></p> 
+</div>
