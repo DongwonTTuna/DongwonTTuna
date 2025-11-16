@@ -1,41 +1,19 @@
-## Frontend works　ー　フロントエンドの作品
+Hi I'm Dongwon Lee, a Tokyo-based full-stack engineer at Nextbeat focused on modern SaaS experiences.
 
-[![Frontend Banner](/img/frontendWorks.png)](https://dongwontuna.net/works/backend/)
-<br/>
-<br/>
-| 2022.07 | 2022.10 | 
-|:-------------------------:|:-------------------------:|
-|[![RandomSeat Banner](/img/randomSeat.png)](https://randomseat.dongwontuna.net/) |[![TviewChart](/img/tviewChart.png)](https://tviewchart.dongwontuna.net)|
-|[![RandomSeat Github](/img/randomSeatGithub.png)](https://github.com/DongwonTTuna/RandomSeat) |[![TviewChart Github](/img/tviewChartGithub.png)](https://github.com/DongwonTTuna/TviewChart) |
+**About me**
 
-<br/>
-<br/>
-<br/>
+- 💼 Driving Omotenashi HR @ Nextbeat (Tokyo)
+- 🚀 Ship SvelteKit + Nest.js systems end-to-end across AWS and Cloudflare
+- ❤️ I love writing expressive TypeScript and squeezing extra wins out of Core Web Vitals and SEO
+- 💬 Ask me anything on [here](https://github.com/DongwonTTuna/dongwonTTuna/issues)
+- 🌐 Do U want to see more about me? → [dongwontuna.net](https://dongwontuna.net)
 
-## Backend works　ー　バックエンドの作品
+<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" alt="nestjs" src="./img/nest.png"></code>
+<code><img height="20" alt="svelte" src="./img/svelte.png"></code>
+<code><img height="20" alt="aws" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
+<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
-[![Backend Banner](/img/backendWorks.png)](https://dongwontuna.net/works/backend/)
-<br/>
-<br/>
-| 2023.03~ | 2022.09~ |
-|:-------------------------:|:-------------------------:|
-|[![Notion csv Automator Banner](/img/Holiday2Notion.png)](https://github.com/DongwonTTuna/Holiday2Notion)|[![CoinTradingSystem Banner](/img/coinTradingSystem.png)](https://github.com/DongwonTTuna/CoinTradingSystem)|
-|[![Holiday2Notion Github](/img/Holiday2NotionGithub.png)](https://github.com/DongwonTTuna/Holiday2Notion)|[![CoinTradingSystem Github](/img/coinTradingSystemGithub.png)](https://github.com/DongwonTTuna/CoinTradingSystem)|
 
-<br/>
-<br/>
-<br/>
-
-## Fullstack works　ー　フルスタックの作品
-
-[![Fullstack Banner](/img/fullstackWorks.png)](https://dongwontuna.net/works/fullstack/)
-<br/>
-<br/>
-| 2023.02~ | 2024.07 | 
-|:-------------------------:|:-------------------------:|
-|[![DongwonTuna Banner](/img/mainSite.png)](https://dongwontuna.net/) In Development |[![BiodenKR Banner](/img/biodenKRSite.png)](https://biodenkr.com)|
-|[![DongwonTuna Github](/img/mainSiteGithub.png)](https://github.com/DongwonTTuna/mainSite)|[![BiodenKR Github](/img/biodenKRGithub.png)](https://github.com/DongwonTTuna/biodenKR_svelte)|
-
-<br/>
-<br/>
-<br/>
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=DongwonTTuna&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Dongwon's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DongwonTTuna&layout=compact&theme=buefy&hide_border=true" /> |
+| ------------- | ------------- |
